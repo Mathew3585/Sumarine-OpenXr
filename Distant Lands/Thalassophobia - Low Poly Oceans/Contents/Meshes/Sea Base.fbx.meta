@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 0d57e645feb1fdb4f8282e606aa0ffe5
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Cube
+  - first:
+      1: 100002
+    second: Cube.001
+  - first:
+      1: 100004
+    second: Door 1
+  - first:
+      1: 100006
+    second: Floor 1
+  - first:
+      1: 100008
+    second: Floor 2
+  - first:
+      1: 100010
+    second: Hallway 1
+  - first:
+      1: 100012
+    second: Hallway Corner 1
+  - first:
+      1: 100014
+    second: Hallway Corner 2
+  - first:
+      1: 100016
+    second: Hallway Observatory
+  - first:
+      1: 100018
+    second: Hallway Plain
+  - first:
+      1: 100020
+    second: Hallway Skylight
+  - first:
+      1: 100022
+    second: Hallway T Joint
+  - first:
+      1: 100024
+    second: Hallway T Joint Window
+  - first:
+      1: 100026
+    second: Hallway Windows
+  - first:
+      1: 100028
+    second: Roof 1
+  - first:
+      1: 100030
+    second: Roof 2
+  - first:
+      1: 100032
+    second: Roof 3
+  - first:
+      1: 100034
+    second: Roof 4
+  - first:
+      1: 100036
+    second: //RootNode
+  - first:
+      1: 100038
+    second: Storgae Wall
+  - first:
+      1: 100040
+    second: Wall
+  - first:
+      1: 100042
+    second: Wall Reinforced
+  - first:
+      1: 100044
+    second: Window
+  - first:
+      1: 100046
+    second: Window Glass.001
+  - first:
+      1: 100048
+    second: Window 2
+  - first:
+      1: 100050
+    second: Floor 3
+  - first:
+      1: 100052
+    second: Ladder
+  - first:
+      1: 100054
+    second: Storgage Wall
+  - first:
+      1: 100056
+    second: Storage Wall
+  - first:
+      1: 100058
+    second: Bottom 1
+  - first:
+      1: 100060
+    second: Bottom 2
+  - first:
+      1: 100062
+    second: Long Ladder
+  - first:
+      1: 100064
+    second: Support 1
+  - first:
+      1: 100066
+    second: Support Base
+  - first:
+      1: 100068
+    second: Hallway Support
+  - first:
+      1: 100070
+    second: Bar Light
+  - first:
+      1: 100072
+    second: Large Can Light
+  - first:
+      1: 100074
+    second: Mapping Table
+  - first:
+      1: 100076
+    second: Plasma Chambers
+  - first:
+      1: 100078
+    second: Small Can Light
+  - first:
+      1: 100080
+    second: Support 2
+  - first:
+      1: 100082
+    second: Terrarium
+  - first:
+      1: 100084
+    second: Locker
+  - first:
+      1: 100086
+    second: Base 1
+  - first:
+      1: 100088
+    second: Base 2
+  - first:
+      1: 100090
+    second: Base 3
+  - first:
+      1: 100092
+    second: Doorway 2
+  - first:
+      1: 100094
+    second: Roof Section 1
+  - first:
+      1: 100096
+    second: Roof Section 2
+  - first:
+      1: 100098
+    second: Roof Section 3
+  - first:
+      1: 100100
+    second: Roof Section 4
+  - first:
+      1: 100102
+    second: Wall 2
+  - first:
+      1: 100104
+    second: Wall 2 Corner
+  - first:
+      1: 100106
+    second: Wall 2 Window
+  - first:
+      1: 100108
+    second: Window Hole
+  - first:
+      1: 100110
+    second: Floor Square
+  - first:
+      1: 100112
+    second: Observatory Deck
+  - first:
+      1: 100114
+    second: Floor Hole
+  - first:
+      1: 100116
+    second: Wall 2 Corner Window
+  - first:
+      1: 100118
+    second: Hallway End
+  - first:
+      1: 100120
+    second: Doorway 2 (Tall)
+  - first:
+      1: 100122
+    second: Wall 2 (Tall)
+  - first:
+      1: 100124
+    second: Wall 2 Corner (Tall)
+  - first:
+      1: 100126
+    second: Wall 2 Corner Window (Tall)
+  - first:
+      1: 100128
+    second: Wall 2 Window (Tall)
+  - first:
+      1: 100130
+    second: Observatory Deck.001
+  - first:
+      4: 400000
+    second: Cube
+  - first:
+      4: 400002
+    second: Cube.001
+  - first:
+      4: 400004
+    second: Door 1
+  - first:
+      4: 400006
+    second: Floor 1
+  - first:
+      4: 400008
+    second: Floor 2
+  - first:
+      4: 400010
+    second: Hallway 1
+  - first:
+      4: 400012
+    second: Hallway Corner 1
+  - first:
+      4: 400014
+    second: Hallway Corner 2
+  - first:
+      4: 400016
+    second: Hallway Observatory
+  - first:
+      4: 400018
+    second: Hallway Plain
+  - first:
+      4: 400020
+    second: Hallway Skylight
+  - first:
+      4: 400022
+    second: Hallway T Joint
+  - first:
+      4: 400024
+    second: Hallway T Joint Window
+  - first:
+      4: 400026
+    second: Hallway Windows
+  - first:
+      4: 400028
+    second: Roof 1
+  - first:
+      4: 400030
+    second: Roof 2
+  - first:
+      4: 400032
+    second: Roof 3
+  - first:
+      4: 400034
+    second: Roof 4
+  - first:
+      4: 400036
+    second: //RootNode
+  - first:
+      4: 400038
+    second: Storgae Wall
+  - first:
+      4: 400040
+    second: Wall
+  - first:
+      4: 400042
+    second: Wall Reinforced
+  - first:
+      4: 400044
+    second: Window
+  - first:
+      4: 400046
+    second: Window Glass.001
+  - first:
+      4: 400048
+    second: Window 2
+  - first:
+      4: 400050
+    second: Floor 3
+  - first:
+      4: 400052
+    second: Ladder
+  - first:
+      4: 400054
+    second: Storgage Wall
+  - first:
+      4: 400056
+    second: Storage Wall
+  - first:
+      4: 400058
+    second: Bottom 1
+  - first:
+      4: 400060
+    second: Bottom 2
+  - first:
+      4: 400062
+    second: Long Ladder
+  - first:
+      4: 400064
+    second: Support 1
+  - first:
+      4: 400066
+    second: Support Base
+  - first:
+      4: 400068
+    second: Hallway Support
+  - first:
+      4: 400070
+    second: Bar Light
+  - first:
+      4: 400072
+    second: Large Can Light
+  - first:
+      4: 400074
+    second: Mapping Table
+  - first:
+      4: 400076
+    second: Plasma Chambers
+  - first:
+      4: 400078
+    second: Small Can Light
+  - first:
+      4: 400080
+    second: Support 2
+  - first:
+      4: 400082
+    second: Terrarium
+  - first:
+      4: 400084
+    second: Locker
+  - first:
+      4: 400086
+    second: Base 1
+  - first:
+      4: 400088
+    second: Base 2
+  - first:
+      4: 400090
+    second: Base 3
+  - first:
+      4: 400092
+    second: Doorway 2
+  - first:
+      4: 400094
+    second: Roof Section 1
+  - first:
+      4: 400096
+    second: Roof Section 2
+  - first:
+      4: 400098
+    second: Roof Section 3
+  - first:
+      4: 400100
+    second: Roof Section 4
+  - first:
+      4: 400102
+    second: Wall 2
+  - first:
+      4: 400104
+    second: Wall 2 Corner
+  - first:
+      4: 400106
+    second: Wall 2 Window
+  - first:
+      4: 400108
+    second: Window Hole
+  - first:
+      4: 400110
+    second: Floor Square
+  - first:
+      4: 400112
+    second: Observatory Deck
+  - first:
+      4: 400114
+    second: Floor Hole
+  - first:
+      4: 400116
+    second: Wall 2 Corner Window
+  - first:
+      4: 400118
+    second: Hallway End
+  - first:
+      4: 400120
+    second: Doorway 2 (Tall)
+  - first:
+      4: 400122
+    second: Wall 2 (Tall)
+  - first:
+      4: 400124
+    second: Wall 2 Corner (Tall)
+  - first:
+      4: 400126
+    second: Wall 2 Corner Window (Tall)
+  - first:
+      4: 400128
+    second: Wall 2 Window (Tall)
+  - first:
+      4: 400130
+    second: Observatory Deck.001
+  - first:
+      21: 2100000
+    second: Window
+  - first:
+      21: 2100002
+    second: Wall
+  - first:
+      21: 2100004
+    second: Accent
+  - first:
+      21: 2100006
+    second: Light
+  - first:
+      21: 2100008
+    second: Wall 2
+  - first:
+      21: 2100010
+    second: Floor
+  - first:
+      21: 2100012
+    second: No Name
+  - first:
+      21: 2100014
+    second: Metal
+  - first:
+      21: 2100016
+    second: Wall.001
+  - first:
+      21: 2100018
+    second: Accent.001
+  - first:
+      21: 2100020
+    second: Wall 2.001
+  - first:
+      21: 2100022
+    second: Floor.001
+  - first:
+      21: 2100024
+    second: Accent.002
+  - first:
+      21: 2100026
+    second: Light.001
+  - first:
+      23: 2300000
+    second: Cube
+  - first:
+      23: 2300002
+    second: Cube.001
+  - first:
+      23: 2300004
+    second: Door 1
+  - first:
+      23: 2300006
+    second: Floor 1
+  - first:
+      23: 2300008
+    second: Floor 2
+  - first:
+      23: 2300010
+    second: Hallway 1
+  - first:
+      23: 2300012
+    second: Hallway Corner 1
+  - first:
+      23: 2300014
+    second: Hallway Corner 2
+  - first:
+      23: 2300016
+    second: Hallway Observatory
+  - first:
+      23: 2300018
+    second: Hallway Plain
+  - first:
+      23: 2300020
+    second: Hallway Skylight
+  - first:
+      23: 2300022
+    second: Hallway T Joint
+  - first:
+      23: 2300024
+    second: Hallway T Joint Window
+  - first:
+      23: 2300026
+    second: Hallway Windows
+  - first:
+      23: 2300028
+    second: Roof 1
+  - first:
+      23: 2300030
+    second: Roof 2
+  - first:
+      23: 2300032
+    second: Roof 3
+  - first:
+      23: 2300034
+    second: Roof 4
+  - first:
+      23: 2300036
+    second: Storgae Wall
+  - first:
+      23: 2300038
+    second: Wall
+  - first:
+      23: 2300040
+    second: Wall Reinforced
+  - first:
+      23: 2300042
+    second: Window
+  - first:
+      23: 2300044
+    second: Window Glass.001
+  - first:
+      23: 2300046
+    second: Window 2
+  - first:
+      23: 2300048
+    second: Floor 3
+  - first:
+      23: 2300050
+    second: Ladder
+  - first:
+      23: 2300052
+    second: Storgage Wall
+  - first:
+      23: 2300054
+    second: Storage Wall
+  - first:
+      23: 2300056
+    second: Bottom 1
+  - first:
+      23: 2300058
+    second: Bottom 2
+  - first:
+      23: 2300060
+    second: Long Ladder
+  - first:
+      23: 2300062
+    second: Support 1
+  - first:
+      23: 2300064
+    second: Support Base
+  - first:
+      23: 2300066
+    second: Hallway Support
+  - first:
+      23: 2300068
+    second: Bar Light
+  - first:
+      23: 2300070
+    second: Large Can Light
+  - first:
+      23: 2300072
+    second: Mapping Table
+  - first:
+      23: 2300074
+    second: Plasma Chambers
+  - first:
+      23: 2300076
+    second: Small Can Light
+  - first:
+      23: 2300078
+    second: Support 2
+  - first:
+      23: 2300080
+    second: Terrarium
+  - first:
+      23: 2300082
+    second: Locker
+  - first:
+      23: 2300084
+    second: Base 1
+  - first:
+      23: 2300086
+    second: Base 2
+  - first:
+      23: 2300088
+    second: Base 3
+  - first:
+      23: 2300090
+    second: Doorway 2
+  - first:
+      23: 2300092
+    second: Roof Section 1
+  - first:
+      23: 2300094
+    second: Roof Section 2
+  - first:
+      23: 2300096
+    second: Roof Section 3
+  - first:
+      23: 2300098
+    second: Roof Section 4
+  - first:
+      23: 2300100
+    second: Wall 2
+  - first:
+      23: 2300102
+    second: Wall 2 Corner
+  - first:
+      23: 2300104
+    second: Wall 2 Window
+  - first:
+      23: 2300106
+    second: Window Hole
+  - first:
+      23: 2300108
+    second: Floor Square
+  - first:
+      23: 2300110
+    second: Observatory Deck
+  - first:
+      23: 2300112
+    second: Floor Hole
+  - first:
+      23: 2300114
+    second: Wall 2 Corner Window
+  - first:
+      23: 2300116
+    second: Hallway End
+  - first:
+      23: 2300118
+    second: Doorway 2 (Tall)
+  - first:
+      23: 2300120
+    second: Wall 2 (Tall)
+  - first:
+      23: 2300122
+    second: Wall 2 Corner (Tall)
+  - first:
+      23: 2300124
+    second: Wall 2 Corner Window (Tall)
+  - first:
+      23: 2300126
+    second: Wall 2 Window (Tall)
+  - first:
+      23: 2300128
+    second: Observatory Deck.001
+  - first:
+      33: 3300000
+    second: Cube
+  - first:
+      33: 3300002
+    second: Cube.001
+  - first:
+      33: 3300004
+    second: Door 1
+  - first:
+      33: 3300006
+    second: Floor 1
+  - first:
+      33: 3300008
+    second: Floor 2
+  - first:
+      33: 3300010
+    second: Hallway 1
+  - first:
+      33: 3300012
+    second: Hallway Corner 1
+  - first:
+      33: 3300014
+    second: Hallway Corner 2
+  - first:
+      33: 3300016
+    second: Hallway Observatory
+  - first:
+      33: 3300018
+    second: Hallway Plain
+  - first:
+      33: 3300020
+    second: Hallway Skylight
+  - first:
+      33: 3300022
+    second: Hallway T Joint
+  - first:
+      33: 3300024
+    second: Hallway T Joint Window
+  - first:
+      33: 3300026
+    second: Hallway Windows
+  - first:
+      33: 3300028
+    second: Roof 1
+  - first:
+      33: 3300030
+    second: Roof 2
+  - first:
+      33: 3300032
+    second: Roof 3
+  - first:
+      33: 3300034
+    second: Roof 4
+  - first:
+      33: 3300036
+    second: Storgae Wall
+  - first:
+      33: 3300038
+    second: Wall
+  - first:
+      33: 3300040
+    second: Wall Reinforced
+  - first:
+      33: 3300042
+    second: Window
+  - first:
+      33: 3300044
+    second: Window Glass.001
+  - first:
+      33: 3300046
+    second: Window 2
+  - first:
+      33: 3300048
+    second: Floor 3
+  - first:
+      33: 3300050
+    second: Ladder
+  - first:
+      33: 3300052
+    second: Storgage Wall
+  - first:
+      33: 3300054
+    second: Storage Wall
+  - first:
+      33: 3300056
+    second: Bottom 1
+  - first:
+      33: 3300058
+    second: Bottom 2
+  - first:
+      33: 3300060
+    second: Long Ladder
+  - first:
+      33: 3300062
+    second: Support 1
+  - first:
+      33: 3300064
+    second: Support Base
+  - first:
+      33: 3300066
+    second: Hallway Support
+  - first:
+      33: 3300068
+    second: Bar Light
+  - first:
+      33: 3300070
+    second: Large Can Light
+  - first:
+      33: 3300072
+    second: Mapping Table
+  - first:
+      33: 3300074
+    second: Plasma Chambers
+  - first:
+      33: 3300076
+    second: Small Can Light
+  - first:
+      33: 3300078
+    second: Support 2
+  - first:
+      33: 3300080
+    second: Terrarium
+  - first:
+      33: 3300082
+    second: Locker
+  - first:
+      33: 3300084
+    second: Base 1
+  - first:
+      33: 3300086
+    second: Base 2
+  - first:
+      33: 3300088
+    second: Base 3
+  - first:
+      33: 3300090
+    second: Doorway 2
+  - first:
+      33: 3300092
+    second: Roof Section 1
+  - first:
+      33: 3300094
+    second: Roof Section 2
+  - first:
+      33: 3300096
+    second: Roof Section 3
+  - first:
+      33: 3300098
+    second: Roof Section 4
+  - first:
+      33: 3300100
+    second: Wall 2
+  - first:
+      33: 3300102
+    second: Wall 2 Corner
+  - first:
+      33: 3300104
+    second: Wall 2 Window
+  - first:
+      33: 3300106
+    second: Window Hole
+  - first:
+      33: 3300108
+    second: Floor Square
+  - first:
+      33: 3300110
+    second: Observatory Deck
+  - first:
+      33: 3300112
+    second: Floor Hole
+  - first:
+      33: 3300114
+    second: Wall 2 Corner Window
+  - first:
+      33: 3300116
+    second: Hallway End
+  - first:
+      33: 3300118
+    second: Doorway 2 (Tall)
+  - first:
+      33: 3300120
+    second: Wall 2 (Tall)
+  - first:
+      33: 3300122
+    second: Wall 2 Corner (Tall)
+  - first:
+      33: 3300124
+    second: Wall 2 Corner Window (Tall)
+  - first:
+      33: 3300126
+    second: Wall 2 Window (Tall)
+  - first:
+      33: 3300128
+    second: Observatory Deck.001
+  - first:
+      43: 4300000
+    second: Roof 4
+  - first:
+      43: 4300002
+    second: Roof 3
+  - first:
+      43: 4300004
+    second: Roof 2
+  - first:
+      43: 4300006
+    second: Roof 1
+  - first:
+      43: 4300008
+    second: Hallway Corner 1
+  - first:
+      43: 4300010
+    second: Hallway Corner 2
+  - first:
+      43: 4300012
+    second: Storgae Wall
+  - first:
+      43: 4300014
+    second: Cube.001
+  - first:
+      43: 4300016
+    second: Floor 1
+  - first:
+      43: 4300018
+    second: Hallway T Joint
+  - first:
+      43: 4300020
+    second: Hallway 1
+  - first:
+      43: 4300022
+    second: Window Glass.001
+  - first:
+      43: 4300024
+    second: Cube
+  - first:
+      43: 4300026
+    second: Floor 2
+  - first:
+      43: 4300028
+    second: Hallway Observatory
+  - first:
+      43: 4300030
+    second: Hallway Skylight
+  - first:
+      43: 4300032
+    second: Hallway Plain
+  - first:
+      43: 4300034
+    second: Hallway Windows
+  - first:
+      43: 4300036
+    second: Door 1
+  - first:
+      43: 4300038
+    second: Wall
+  - first:
+      43: 4300040
+    second: Window
+  - first:
+      43: 4300042
+    second: Wall Reinforced
+  - first:
+      43: 4300044
+    second: Hallway T Joint Window
+  - first:
+      43: 4300046
+    second: Window 2
+  - first:
+      43: 4300048
+    second: Ladder
+  - first:
+      43: 4300050
+    second: Floor 3
+  - first:
+      43: 4300052
+    second: Storgage Wall
+  - first:
+      43: 4300054
+    second: Storage Wall
+  - first:
+      43: 4300056
+    second: Support Base
+  - first:
+      43: 4300058
+    second: Support 1
+  - first:
+      43: 4300060
+    second: Bottom 2
+  - first:
+      43: 4300062
+    second: Bottom 1
+  - first:
+      43: 4300064
+    second: Long Ladder
+  - first:
+      43: 4300066
+    second: Hallway Support
+  - first:
+      43: 4300068
+    second: Mapping Table
+  - first:
+      43: 4300070
+    second: Bar Light
+  - first:
+      43: 4300072
+    second: Small Can Light
+  - first:
+      43: 4300074
+    second: Plasma Chambers
+  - first:
+      43: 4300076
+    second: Terrarium
+  - first:
+      43: 4300078
+    second: Support 2
+  - first:
+      43: 4300080
+    second: Large Can Light
+  - first:
+      43: 4300082
+    second: Locker
+  - first:
+      43: 4300084
+    second: Base 3
+  - first:
+      43: 4300086
+    second: Base 2
+  - first:
+      43: 4300088
+    second: Base 1
+  - first:
+      43: 4300090
+    second: Roof Section 4
+  - first:
+      43: 4300092
+    second: Roof Section 3
+  - first:
+      43: 4300094
+    second: Roof Section 2
+  - first:
+      43: 4300096
+    second: Roof Section 1
+  - first:
+      43: 4300098
+    second: Wall 2 Window
+  - first:
+      43: 4300100
+    second: Doorway 2
+  - first:
+      43: 4300102
+    second: Wall 2 Corner
+  - first:
+      43: 4300104
+    second: Wall 2
+  - first:
+      43: 4300106
+    second: Window Hole
+  - first:
+      43: 4300108
+    second: Floor Square
+  - first:
+      43: 4300110
+    second: Observatory Deck
+  - first:
+      43: 4300112
+    second: Floor Hole
+  - first:
+      43: 4300114
+    second: Wall 2 Corner Window
+  - first:
+      43: 4300116
+    second: Hallway End
+  - first:
+      43: 4300118
+    second: Wall 2 Corner Window (Tall)
+  - first:
+      43: 4300120
+    second: Wall 2 Window (Tall)
+  - first:
+      43: 4300122
+    second: Doorway 2 (Tall)
+  - first:
+      43: 4300124
+    second: Wall 2 Corner (Tall)
+  - first:
+      43: 4300126
+    second: Wall 2 (Tall)
+  - first:
+      43: 4300128
+    second: Observatory Deck.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accent
+    second: {fileID: 2100000, guid: d24362b37a0e90d4899902916335a2cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accent.001
+    second: {fileID: 2100000, guid: d24362b37a0e90d4899902916335a2cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 9c4ffe61a6e525a48992b7047ec0150c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor.001
+    second: {fileID: 2100000, guid: 9c4ffe61a6e525a48992b7047ec0150c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 6ccfc5be16aa75d42bfd3436fd5daa0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: f8c8ad49f9abc414ea3be9d28026f807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 2187dc6d70f4ac748b86ddf780686ba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: d2a3e85468ce71a429fa05f4faa8e6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall 2
+    second: {fileID: 2100000, guid: 65a834c4ba046ab42a8e5e4c0976175a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall 2.001
+    second: {fileID: 2100000, guid: 65a834c4ba046ab42a8e5e4c0976175a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall.001
+    second: {fileID: 2100000, guid: d2a3e85468ce71a429fa05f4faa8e6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 0716ae61e08c19745b09852df67c440d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Large Can Light","Bar Light","Small Can Light","Support
+      Base","Support 1","Hallway Plain","Hallway Observatory","Window 2","Wall","Door
+      1","Floor 1","Bottom 2","Roof 1","Storage Wall","Roof 2","Window","Roof 3","Ladder","Wall
+      Reinforced","Floor 3","Wall 2","Support 2","Roof Section 3","Roof Section 1","Roof
+      Section 2","Base 1","Base 2","Wall 2 Window","Wall 2 Corner","Floor Square","Doorway
+      2","Hallway 1","Roof 4"],"padding":[59,129,233,40,61,29,28,48,53,37,24,19,20,43,21,51,18,163,53,24,55,95,45,46,47,36,36,52,40,62,38,29,19],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.6
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 24
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1.6
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
